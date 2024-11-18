@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-lg main_menu" id="main_menu_area">
     <div class="container">
         <a class="navbar-brand" href="index.html">
-            <img src="images/logo.png" alt="Rabins">
+            <img src="{{ asset('frontend/assets/images/logo1.png') }}" alt="Rabins" width="50" class="rounded-circle">
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
             aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -18,7 +18,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#portfolio-page">Portfolio <i class="fas fa-angle-down"></i></a>
                     <ul class="sub_menu">
-                        <li><a href="portfolio.html">Portfolio Grid</a></li>
+                        <li><a href="#">Portfolio Grid</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">
@@ -27,7 +27,7 @@
                 <li class="nav-item">
                     <a class="nav-link" href="#blog-page">Blog <i class="fas fa-angle-down"></i></a>
                     <ul class="sub_menu">
-                        <li><a href="blog.html">Blog Grid</a></li>
+                        <li><a href="#">Blog Grid</a></li>
                     </ul>
                 </li>
                 <li class="nav-item">

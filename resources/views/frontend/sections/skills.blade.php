@@ -7,9 +7,7 @@
                         <div class="section-title">
                             <h3 class="title">Skills</h3>
                             <div class="desc">
-                                <p>Earum quos animi numquam excepturi eveniet explicabo repellendus rem esse.
-                                    Quae quasi
-                                    odio enim.</p>
+                                <p>Disini Saya Memiliki Beberapa Kemampuan dalam dunia Informatika, Anda Bisa Lihat Dibawah</p>
                             </div>
                         </div>
                     </div>
@@ -52,7 +50,7 @@
                     </div>
                     <div class="col-sm-6">
                         <div class="bar_group wow fadeInUp" data-wow-delay="0.5s" data-max="100">
-                            <div class="title">Problem Solbing</div>
+                            <div class="title">Problem Solving</div>
                             <div class="bar_group__bar thick elastic" data-value="65" data-tooltip="true"
                                 data-color="#9dd3ff" data-show-values="false" data-unit="%"></div>
                         </div>
@@ -61,7 +59,8 @@
             </div>
             <div class="col-lg-6 d-none d-lg-block">
                 <figure class="single-image text-right wow fadeInRight">
-                    <img src="images/skill.jpg" alt="">
+                    <img src="{{ asset('frontend/assets/images/skill.jpg') }}" alt="Deskripsi Gambar">
+
                 </figure>
             </div>
         </div>

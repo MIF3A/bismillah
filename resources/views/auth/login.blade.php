@@ -88,11 +88,11 @@
                                 </form>
                             </div>
                         </div>
-                        {{-- <div class="mt-5 text-muted text-center">
+                        <div class="mt-5 text-muted text-center">
                             Don't have an account? <a href="{{ route('register') }}">Create One</a>
-                        </div> --}}
+                        </div>
                         <div class="simple-footer">
-                            Copyright &copy; Mehmet Temizkan 2023
+                            Copyright &copy; Uray Naufal 2024
                         </div>
                     </div>
                 </div>
